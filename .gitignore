@@ -1,0 +1,12 @@
+# Local development notes
+LOCAL_DEVELOPMENT.md
+
+# Jekyll local output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
